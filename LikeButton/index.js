@@ -1,8 +1,3 @@
-// import React from 'react';
-// import ReactDOM from 'react-dom';
-// import React, { Component, PropTypes } from 'react';
-// import React from 'react';
-// import ReactDOM from 'react-dom';
 var React = require('react');
 var ReactDOM = require('react-dom');
 class LikeButton extends React.Component {
@@ -30,4 +25,3 @@ ReactDOM.render(
   <LikeButton />,
   document.getElementById('app')
 );
-// export default LikeButton;
