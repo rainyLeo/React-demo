@@ -7,7 +7,6 @@ module.exports = {
   },
   devServer: {
     inline: true, // live reload on the browser
-    // hot: true,
     port: 3333
   },
   module: {
